@@ -1,0 +1,67 @@
+# Core Streamlit and Web Framework
+
+streamlit>=1.28.0
+streamlit-aggrid>=0.3.4
+
+# Data Processing and Analysis
+
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization
+
+plotly>=5.15.0
+plotly-express>=0.4.1
+
+# HTTP Requests and API Integration
+
+requests>=2.31.0
+urllib3>=2.0.0
+
+# JSON and Data Handling
+
+orjson>=3.9.0
+
+# Date and Time Utilities
+
+python-dateutil>=2.8.2
+
+# Optional: Enhanced Data Sources (uncomment if needed)
+
+# yfinance>=0.2.18
+
+# beautifulsoup4>=4.12.0
+
+# selenium>=4.15.0
+
+# feedparser>=6.0.10
+
+# Optional: Database Integration (uncomment if needed)
+
+# sqlalchemy>=2.0.0
+
+# psycopg2-binary>=2.9.0
+
+# pymongo>=4.5.0
+
+# Optional: Advanced Analytics (uncomment if needed)
+
+# scikit-learn>=1.3.0
+
+# scipy>=1.11.0
+
+# Optional: Caching and Performance (uncomment if needed)
+
+# redis>=4.6.0
+
+# diskcache>=5.6.0
+
+# Development and Testing (uncomment for development)
+
+# pytest>=7.4.0
+
+# black>=23.7.0
+
+# flake8>=6.0.0
+
+# mypy>=1.5.0
